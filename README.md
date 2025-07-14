@@ -2,10 +2,7 @@
 <h3 align="center">AI Engineer | Tanta University</h3>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Full Stack Development;Intelligent+solutions+for+real+impact;Open‑Source+Contributor;Always+Exploring+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&width=1400&size=30&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Full+Stack+Development;Intelligent+solutions+for+real+impact;Open‑Source+Contributor;Always+Exploring+%26+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
